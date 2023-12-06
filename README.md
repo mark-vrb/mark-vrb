@@ -1,9 +1,3 @@
-### Hi there 👋
-
-Techno cyberpunk activities 👽
-
-LA, be good!
-
 <!--
 **mark-vrb/mark-vrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
