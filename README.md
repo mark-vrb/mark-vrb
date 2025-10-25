@@ -1,4 +1,4 @@
 # Hey 👋  
 I'm Mark  
 
-💌 Reach me at **mark@varabyou.com** if you'd like to collaborate.  
+💌 Reach me at **m@varabyou.com** if you'd like to collaborate.  
