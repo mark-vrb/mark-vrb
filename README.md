@@ -10,7 +10,7 @@ I design and build the systems that keep platforms fast, safe, and easy to exten
 - **Payments & third-party integrations**: designing and shipping integrations with payment processors, in close collaboration with external enterprise partner teams (OAuth2, token caching, setup flows)
 - **API lifecycle ownership**: versioning, deprecation, and sunset strategy across teams that depend on shared services
 - **Developer tooling & standards**: raising the bar on tooling, review practices, and engineering norms across teams
-- **Security & hardening**: leading admin panel security hardening (Tailscale-gated access, TOTP) and closing vulnerabilities identified in penetration testing
+- **Security & hardening**: leading admin panel security hardening and closing vulnerabilities identified in penetration testing
 
 ## Tech I work in
 
