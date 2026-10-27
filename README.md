@@ -22,6 +22,4 @@ I spent several years in full-stack roles before deliberately moving into infras
 
 ---
 
-Outside of work, I design and build [VIKALISM](https://vikalism.com), a made-to-order jewelry brand with a custom Shopify Hydrogen storefront.
-
 📫 [m@varabyou.com](mailto:m@varabyou.com)
